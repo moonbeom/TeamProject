@@ -1,4 +1,4 @@
-package com.TeamProject.demo;
+package com.TeamProject.demo.mypage;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
